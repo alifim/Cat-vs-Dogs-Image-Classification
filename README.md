@@ -14,7 +14,7 @@ https://www.kaggle.com/c/3362/download-all
 
 4. owncollection: vehicle vs non vehicle
 
-referensi:
+referensi:\n
 https://medium.com/@ksusorokina/image-classification-with-convolutional-neural-networks-496815db12a8
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 https://medium.com/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720
