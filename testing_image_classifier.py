@@ -44,12 +44,3 @@ filenames=test_generator.filenames
 results=pd.DataFrame({"Filename":filenames,
                       "Predictions":predictions})
 results.to_csv("results.csv",index=False)
-'''
-img = cv2.imread('data/test/5.jpg')
-img = cv2.resize(img,(150,150))
-img = np.reshape(img,[1,150,150,3])
-
-classes = model.predict_classes(img)
-
-print(classes)
-'''
